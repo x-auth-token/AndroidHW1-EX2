@@ -1,6 +1,8 @@
 
 public class PlaneShape extends Shape implements PerimeterMeasurable, AreaMeasurable {
 
+	
+	
 	@Override
 	public double getArea() {
 		// TODO Auto-generated method stub
