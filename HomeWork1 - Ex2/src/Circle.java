@@ -45,7 +45,7 @@ public class Circle extends PlaneShape {
 	@Override
 	public double getPerimeter() {
 		// TODO Auto-generated method stub
-		return Math.PI * radius;
+		return 2 * Math.PI * radius;
 	}
 	
 	
